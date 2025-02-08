@@ -7,9 +7,12 @@ The application accepts two file arguments:
 - results file - This will be a text file where the results will be added. The file does not have to exist, as the application can create the file - but if a path is provided, that path must exist and the file name must be a valid file name.
 
 ===== Usage ========
+
 The application can be run from the command line with the pattern
 PalindromeDetector.exe {inputfile} {resultsfile}
 
+
 ===== Examples =====
+
 PalindromeDetector.exe WordsFile.txt Output.txt
 PalindromeDetector.exe C:\Temp\WordsFile.txt C:\Temp\Output.txt
