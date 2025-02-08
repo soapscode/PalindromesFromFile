@@ -1,4 +1,5 @@
 PalindromeDetector is a Console application which detects palindromes in the input file specified and outputs any palindromes that were found to the specified results file.
+
 The StringOperations and FileSupport project folders will need to be pulled to the same folder as PalindromeDetector solution includes references to these library projects.
 
 The application accepts two file arguments:
