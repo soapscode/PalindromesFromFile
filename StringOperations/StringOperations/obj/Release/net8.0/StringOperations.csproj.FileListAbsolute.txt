@@ -1,0 +1,11 @@
+C:\Users\leeso\source\repos\StringOperations\StringOperations\bin\Release\net8.0\StringOperations.deps.json
+C:\Users\leeso\source\repos\StringOperations\StringOperations\bin\Release\net8.0\StringOperations.dll
+C:\Users\leeso\source\repos\StringOperations\StringOperations\bin\Release\net8.0\StringOperations.pdb
+C:\Users\leeso\source\repos\StringOperations\StringOperations\obj\Release\net8.0\StringOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leeso\source\repos\StringOperations\StringOperations\obj\Release\net8.0\StringOperations.AssemblyInfoInputs.cache
+C:\Users\leeso\source\repos\StringOperations\StringOperations\obj\Release\net8.0\StringOperations.AssemblyInfo.cs
+C:\Users\leeso\source\repos\StringOperations\StringOperations\obj\Release\net8.0\StringOperations.csproj.CoreCompileInputs.cache
+C:\Users\leeso\source\repos\StringOperations\StringOperations\obj\Release\net8.0\StringOperations.dll
+C:\Users\leeso\source\repos\StringOperations\StringOperations\obj\Release\net8.0\refint\StringOperations.dll
+C:\Users\leeso\source\repos\StringOperations\StringOperations\obj\Release\net8.0\StringOperations.pdb
+C:\Users\leeso\source\repos\StringOperations\StringOperations\obj\Release\net8.0\ref\StringOperations.dll

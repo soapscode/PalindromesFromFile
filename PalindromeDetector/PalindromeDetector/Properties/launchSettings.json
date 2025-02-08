@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PalindromeDetector": {
+      "commandName": "Project",
+      "commandLineArgs": "WordsFile.txt\r\noutput.txt\r\n"
+    }
+  }
+}

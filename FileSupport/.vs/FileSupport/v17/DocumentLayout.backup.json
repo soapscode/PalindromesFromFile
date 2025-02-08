@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leeso\\source\\repos\\FileSupport\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A62575C9-26C3-479A-B1A2-5A45BAB55C7E}|FileSupport\\FileSupport.csproj|c:\\users\\leeso\\source\\repos\\filesupport\\filesupport\\fileargumentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62575C9-26C3-479A-B1A2-5A45BAB55C7E}|FileSupport\\FileSupport.csproj|solutionrelative:filesupport\\fileargumentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62575C9-26C3-479A-B1A2-5A45BAB55C7E}|FileSupport\\FileSupport.csproj|c:\\users\\leeso\\source\\repos\\filesupport\\filesupport\\tests\\fileargumentshandlershould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62575C9-26C3-479A-B1A2-5A45BAB55C7E}|FileSupport\\FileSupport.csproj|solutionrelative:filesupport\\tests\\fileargumentshandlershould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62575C9-26C3-479A-B1A2-5A45BAB55C7E}|FileSupport\\FileSupport.csproj|c:\\users\\leeso\\source\\repos\\filesupport\\filesupport\\interfaces\\ifileargumentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62575C9-26C3-479A-B1A2-5A45BAB55C7E}|FileSupport\\FileSupport.csproj|solutionrelative:filesupport\\interfaces\\ifileargumentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62575C9-26C3-479A-B1A2-5A45BAB55C7E}|FileSupport\\FileSupport.csproj|c:\\users\\leeso\\source\\repos\\filesupport\\filesupport\\interfaces\\icanwritefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62575C9-26C3-479A-B1A2-5A45BAB55C7E}|FileSupport\\FileSupport.csproj|solutionrelative:filesupport\\interfaces\\icanwritefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62575C9-26C3-479A-B1A2-5A45BAB55C7E}|FileSupport\\FileSupport.csproj|c:\\users\\leeso\\source\\repos\\filesupport\\filesupport\\filesupport.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A62575C9-26C3-479A-B1A2-5A45BAB55C7E}|FileSupport\\FileSupport.csproj|solutionrelative:filesupport\\filesupport.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62575C9-26C3-479A-B1A2-5A45BAB55C7E}|FileSupport\\FileSupport.csproj|c:\\users\\leeso\\source\\repos\\filesupport\\filesupport\\interfaces\\icanvalidatefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62575C9-26C3-479A-B1A2-5A45BAB55C7E}|FileSupport\\FileSupport.csproj|solutionrelative:filesupport\\interfaces\\icanvalidatefile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A62575C9-26C3-479A-B1A2-5A45BAB55C7E}|FileSupport\\FileSupport.csproj|c:\\users\\leeso\\source\\repos\\filesupport\\filesupport\\interfaces\\icanreadfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62575C9-26C3-479A-B1A2-5A45BAB55C7E}|FileSupport\\FileSupport.csproj|solutionrelative:filesupport\\interfaces\\icanreadfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFileArgumentsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\leeso\\source\\repos\\FileSupport\\FileSupport\\Interfaces\\IFileArgumentsHandler.cs",
+              "RelativeDocumentMoniker": "FileSupport\\Interfaces\\IFileArgumentsHandler.cs",
+              "ToolTip": "C:\\Users\\leeso\\source\\repos\\FileSupport\\FileSupport\\Interfaces\\IFileArgumentsHandler.cs",
+              "RelativeToolTip": "FileSupport\\Interfaces\\IFileArgumentsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:27:58.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileArgumentsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\leeso\\source\\repos\\FileSupport\\FileSupport\\FileArgumentsHandler.cs",
+              "RelativeDocumentMoniker": "FileSupport\\FileArgumentsHandler.cs",
+              "ToolTip": "C:\\Users\\leeso\\source\\repos\\FileSupport\\FileSupport\\FileArgumentsHandler.cs",
+              "RelativeToolTip": "FileSupport\\FileArgumentsHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:27:38.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileArgumentsHandlerShould.cs",
+              "DocumentMoniker": "C:\\Users\\leeso\\source\\repos\\FileSupport\\FileSupport\\Tests\\FileArgumentsHandlerShould.cs",
+              "RelativeDocumentMoniker": "FileSupport\\Tests\\FileArgumentsHandlerShould.cs",
+              "ToolTip": "C:\\Users\\leeso\\source\\repos\\FileSupport\\FileSupport\\Tests\\FileArgumentsHandlerShould.cs",
+              "RelativeToolTip": "FileSupport\\Tests\\FileArgumentsHandlerShould.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:27:19.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICanWriteFile.cs",
+              "DocumentMoniker": "C:\\Users\\leeso\\source\\repos\\FileSupport\\FileSupport\\Interfaces\\ICanWriteFile.cs",
+              "RelativeDocumentMoniker": "FileSupport\\Interfaces\\ICanWriteFile.cs",
+              "ToolTip": "C:\\Users\\leeso\\source\\repos\\FileSupport\\FileSupport\\Interfaces\\ICanWriteFile.cs",
+              "RelativeToolTip": "FileSupport\\Interfaces\\ICanWriteFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:26:28.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICanValidateFile.cs",
+              "DocumentMoniker": "C:\\Users\\leeso\\source\\repos\\FileSupport\\FileSupport\\Interfaces\\ICanValidateFile.cs",
+              "RelativeDocumentMoniker": "FileSupport\\Interfaces\\ICanValidateFile.cs",
+              "ToolTip": "C:\\Users\\leeso\\source\\repos\\FileSupport\\FileSupport\\Interfaces\\ICanValidateFile.cs",
+              "RelativeToolTip": "FileSupport\\Interfaces\\ICanValidateFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:25:52.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICanReadFile.cs",
+              "DocumentMoniker": "C:\\Users\\leeso\\source\\repos\\FileSupport\\FileSupport\\Interfaces\\ICanReadFile.cs",
+              "RelativeDocumentMoniker": "FileSupport\\Interfaces\\ICanReadFile.cs",
+              "ToolTip": "C:\\Users\\leeso\\source\\repos\\FileSupport\\FileSupport\\Interfaces\\ICanReadFile.cs",
+              "RelativeToolTip": "FileSupport\\Interfaces\\ICanReadFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T17:25:43.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileSupport",
+              "DocumentMoniker": "C:\\Users\\leeso\\source\\repos\\FileSupport\\FileSupport\\FileSupport.csproj",
+              "RelativeDocumentMoniker": "FileSupport\\FileSupport.csproj",
+              "ToolTip": "C:\\Users\\leeso\\source\\repos\\FileSupport\\FileSupport\\FileSupport.csproj",
+              "RelativeToolTip": "FileSupport\\FileSupport.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T17:24:36.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
