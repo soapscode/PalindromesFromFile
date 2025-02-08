@@ -8,11 +8,11 @@ The application accepts two file arguments:
 
 ===== Usage ========
 
-The application can be run from the command line with the pattern
-PalindromeDetector.exe {inputfile} {resultsfile}
+The application can be run from the command line with the pattern: PalindromeDetector.exe {inputfile} {resultsfile}
 
 
 ===== Examples =====
 
 PalindromeDetector.exe WordsFile.txt Output.txt
+
 PalindromeDetector.exe C:\Temp\WordsFile.txt C:\Temp\Output.txt
